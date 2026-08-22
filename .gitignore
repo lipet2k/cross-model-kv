@@ -55,3 +55,6 @@ venv.bak/
 CLAUDE.md
 AGENTS.md
 OPINIONS.md
+
+# Data
+/data/
